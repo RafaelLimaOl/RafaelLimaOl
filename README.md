@@ -1,9 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A student FrontEnd and BackEnd developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Lima;I'm+16+years+old;I+from+Brasil,+SP;I+study+Web+development+at+Etec+MCM;)](https://git.io/typing-svg)
+
+<h1 align="center">Web Development - Front and BackEnd</h1>
 
 - 👀 Now I'm looking for **Internship**
 - 🔨 I'm currently working **In more Project for my Portfolio!**
 - 🌱 I’m currently learning **.Net and JavaScript for React!**
+
+
+
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafaelLimaOl&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Rafael Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLimaOl&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
