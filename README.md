@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Lima;I'm+16+years+old;I+from+Brasil,+SP;I+study+Web+development+at+Etec+MCM;)](https://git.io/typing-svg)
 
-<h1 align="center">Web Development - Front and BackEnd</h1>
+<h1 align="center">Desenvolvedor Full-Stack</h1>
 
-- 👀 Now I'm looking for **Internship**
-- 🔨 I'm currently working **In more Project for my Portfolio!**
-- 🌱 I’m currently learning **.Net and JavaScript for React!**
+- 👀 Estou procurando por um novo emprego
+- 🔨 Estou aprimorando meus projetos e atualizando suas tecnologias junto com novas funcionalidades
+- 🌱 Estou estudando as novas atualizações de .NET 9 e .NET 10**
 
 
 
@@ -90,21 +90,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="100"/> 
   </a> 
   
-  <h2 align="center">Design: </h2>
-  
-  <p>All Softwares I use for Design:</p>
-  
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="80" height="80"/> 
-  </a> 
- 
-   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="80" height="80"/> 
-  </a> 
-  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="80" height="80"/> 
-  </a>
   
   <h2 align="center">Others Tools: </h2>
   
